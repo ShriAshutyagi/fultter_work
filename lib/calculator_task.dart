@@ -334,6 +334,7 @@ class MYHoMEPAGEState extends State<MYHoMEPAGE> {
                   ),
                   onPressed: () {
                     {
+
                       setState(() {
                         c = "+";
                         addToList();

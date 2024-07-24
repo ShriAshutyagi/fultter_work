@@ -1,4 +1,4 @@
-import 'package:app_11/app_widget/custom_widget.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
@@ -65,7 +65,7 @@ class HomePage extends StatelessWidget {
     {
       "1" : "assets/images/gardan.jpg",
       "2" :    "Parshant",
-      "3" : "1500 rupey daal do ",
+      "3" : "1501 rupey daal do ",
     },
     {
       "1" : "assets/images/home.jpg",
